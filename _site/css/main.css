@@ -576,7 +576,7 @@ h2~p {
     }
 
     .bio-box {
-        Float: none;
+        float: none;
         font-size: 1.3rem;
         width: auto;
     }

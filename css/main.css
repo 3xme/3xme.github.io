@@ -539,7 +539,7 @@ h2~p {
     font-size: 0.8rem;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 800px) {
     html {
         box-shadow: none;
         padding: 0;

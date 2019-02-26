@@ -539,7 +539,11 @@ h2~p {
     font-size: 0.8rem;
 }
 
+<<<<<<< HEAD
 @media (max-width: 800px) {
+=======
+@media screen and (max-width: 800px) {
+>>>>>>> e35a40bc82a4549e6811c887f7c7dae704b04d90
     html {
         box-shadow: none;
         padding: 0;

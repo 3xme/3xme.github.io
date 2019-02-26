@@ -241,7 +241,7 @@ h2~p {
     text-align: center;
     text-transform: uppercase;
     top: 50%;
-    transform: translate(0 -50%);
+    transform: translate(0, -50%);
 }
 
 .hero-content h1 {
@@ -500,7 +500,7 @@ h2~p {
 }
 
 .home-section h4 {
-    margin-bottm: 1.5rem;
+    margin-bottom: 1.5rem;
     text-align: center;
 }
 
@@ -528,7 +528,7 @@ h2~p {
 
 .callout-title {
     flex: 1;
-    post-aside font-size: 5.75vw;
+    font-size: 5.75vw;
     text-align: right;
     text-transform: uppercase;
 }
@@ -539,7 +539,7 @@ h2~p {
     font-size: 0.8rem;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 300px) {
     html {
         box-shadow: none;
         padding: 0;
